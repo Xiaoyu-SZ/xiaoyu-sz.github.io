@@ -11,9 +11,9 @@ title                    : "Xiaoyu Zhang"
 title_separator          : "-"
 name                     : &name "Xiaoyu Zhang"
 description              : &description "Ph.D. student at Tsinghua Univeristy"
-url                      : https://xiaoyuzh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaoyu-sz.github.io/xiaoyuzh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Xiaoyu-SZ/xiaoyuzh.github.io"
+repository               : "xiaoyuzh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
