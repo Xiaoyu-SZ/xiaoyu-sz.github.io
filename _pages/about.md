@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. 
+I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. I received my B.S. degree in Computer Science (2022) and my minor degree in Psychology (2023) from Tsinghua University.
 
-My major research interests lies in **recommendation system (RS)** and **large language models(LLM)**. Currently, I focus on the following topics: **explainable recommendation**, **user modeling** and **LLM for personalization**.
-
-I received my B.S. degree in Computer Science (2022) and my minor degree in Psychology (2023) in Tsinghua University.
+My major research interests lies in **Recommender System (RS)** and **Large Language Models (LLM)**. Currently, I focus on the following topics: Explainable Recommendation, User Modeling and LLM for Personalization. 
 
 
 Education
