@@ -30,7 +30,7 @@ TODO
 
 Publications
 ======
-* **Large Language Models as Evaluators for Recommendation Explanations.** <br>
+* **Large Language Models as Evaluators for Recommendation Explanations** <br>
   ***Xiaoyu Zhang***, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, Peijie Sun, Min Zhang <br>
   **(RecSys 2024 Reproducibility)**<br>
   [[Paper]](https://arxiv.org/abs/2406.03248) [[Code]](https://github.com/Xiaoyu-SZ/LLMasEvaluatorf)
