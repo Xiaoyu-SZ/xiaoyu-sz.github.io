@@ -12,7 +12,7 @@ I am now a third year Ph.D. student in [THUIR](http://www.thuir.cn/), Department
 
 My major research interests lies in **Recommender System (RS)** and **Large Language Models (LLM)**. Currently, I focus on the following topics: *Explainable Recommendation*, *LLM for Personalization* and *User Modeling*.
 
-Please feel free to [contact me](zhxy0925@gmail.com) if you are interested in my research and looking for possible collaborations!
+Please feel free to [contact me](mailto:zhxy0925@gmail.com) if you are interested in my research and looking for possible collaborations!
 
 
 Education
