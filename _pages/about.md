@@ -25,6 +25,10 @@ Education
 
 Publications
 ======
+* **Interpret the Internal States of Recommendation Model with Sparse Autoencoder** <br>
+  Jiayin Wang, ***Xiaoyu Zhang***, Weizhi Ma, Min Zhang <br>
+  [[Paper]]((https://arxiv.org/abs/2411.06112)
+
 * **Large Language Models as Evaluators for Recommendation Explanations** <br>
   ***Xiaoyu Zhang***, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, Peijie Sun, Min Zhang <br>
   **(RecSys 2024 Reproducibility)**<br>
@@ -32,7 +36,7 @@ Publications
 
 * **Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation** <br> 
   ***Xiaoyu Zhang***, Shiyun Shi, Yishan Li, Weizhi Ma, Peijie Sun, Min Zhang<br>
-  **(TOIS Just Accepted)**<br>
+  **(TOIS)**<br>
   [[Paper]](https://dl.acm.org/doi/abs/10.1145/3690381) [[Code]](https://github.com/Xiaoyu-SZ/FencrCode)
 
 * **RPPG-Toolbox: Deep Remote PPG Toolbox** <br> 
