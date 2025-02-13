@@ -27,7 +27,7 @@ Publications
 ======
 * **Interpret the Internal States of Recommendation Model with Sparse Autoencoder** <br>
   Jiayin Wang, ***Xiaoyu Zhang***, Weizhi Ma, Min Zhang <br>
-  [[Paper]]((https://arxiv.org/abs/2411.06112)
+  [[Paper]](https://arxiv.org/abs/2411.06112)
 
 * **Large Language Models as Evaluators for Recommendation Explanations** <br>
   ***Xiaoyu Zhang***, Yishan Li, Jiayin Wang, Bowen Sun, Weizhi Ma, Peijie Sun, Min Zhang <br>
